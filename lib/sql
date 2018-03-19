@@ -1,0 +1,1 @@
+SELECT gender FROM bears GROUP BY name, age
