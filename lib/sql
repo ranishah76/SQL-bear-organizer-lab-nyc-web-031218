@@ -1,0 +1,1 @@
+SELECT bears.name, bears.age FROM bears.female
