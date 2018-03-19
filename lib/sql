@@ -1,2 +1,0 @@
-
-    SELECT bears.name, bears.age FROM bears WHERE gender = "F"
